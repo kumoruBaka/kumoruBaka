@@ -17,7 +17,7 @@
 ## 🔮 About Me
 
 *Hello everyone!* \
-Introduce my name MiraMor(Wife Senkosann :v)\
+Introduce my name Mirach (Wife Senkosann :v)\
 I am a student and you see, I'm also a beginner in Github\
 still learning and exploring the world of open source. so, that's it\
 \
