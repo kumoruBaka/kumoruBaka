@@ -7,7 +7,6 @@
   <img src="https://i.pinimg.com/originals/11/f9/fa/11f9fa340945f4b7432c635e40c80887.gif" width="1080" style="border-radius: 10px;" />
 </p>
 
-<h1 align="center">Hi, I'm Mirach!</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
@@ -17,7 +16,7 @@
 ## 🔮 About Me
 
 *Hello everyone!* \
-Introduce my name Mirach (Wife Senkosann :v)\
+Introduce my name ashclaw (Wife Senkosann :v)\
 I am a student and you see, I'm also a beginner in Github\
 still learning and exploring the world of open source. so, that's it\
 \
