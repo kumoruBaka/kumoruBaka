@@ -1,49 +1,58 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</p>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/11/f9/fa/11f9fa340945f4b7432c635e40c80887.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
 
+  # 🔮 ashclaw
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/11/f9/fa/11f9fa340945f4b7432c635e40c80887.gif" width="1080" style="border-radius: 10px;" />
-</p>
+  **Student & Beginner Developer** \
+  _Currently exploring the infinite world of Open Source_
 
+  <p align="center">
+    <img src="https://img.shields.io/badge/Main-Ash-7957d5?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Role-Student-ff7597?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-Fullstack-b388ff?style=for-the-badge&logoColor=white" />
+  </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</p>
+  ---
 
+  ### 🪐 About Identity
 
-## 🔮 About Me
+  *Hello everyone!* I am **ashclaw** (Senko-san's biggest fan :v). I'm a student navigating the complexities of high school and the beauty of JavaScript. I love technology, anime, and the satisfying feeling of fixing a broken system.
 
-*Hello everyone!* \
-Introduce my name ashclaw (Wife Senkosann :v)\
-I am a student and you see, I'm also a beginner in Github\
-still learning and exploring the world of open source. so, that's it\
-\
-I love technology, anime, and sometimes I break things just to learn how to fix them again 🤭\
-Oh, and one more thing...
+  > _"I use Arch btw :D"_
 
-> *I use Arch btw :D*
+  ---
 
-## 📈 Stats & Skills
+  ### 🛠️ Technical Arsenal
 
-<p align="center">
-    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-    
-</p>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,ts,nodejs,git,html,css,react,mongodb,java,linux" />
+    </a>
+  </p>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senkoXD&theme=tokyonight" />
-</p>
-<details open align="center">
-<summary><b>↓ Total Profile Visitors ↓</b></summary>
-<br>
-<a href="https://tiktok.com/@raditzzkamu90"><img alt="Cute Count" src="https://count.getloli.com/get/@senkoXD?theme=rule34"/></a>
-</details>
+  ---
+
+  ### 📊 Digital Pulse
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=kumoruBaka&show_icons=true&theme=radical&bg_color=12121a&title_color=b388ff&icon_color=ff7597&text_color=e0e0e6&border_color=ffffff00" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumoruBaka&layout=compact&theme=radical&bg_color=12121a&title_color=b388ff&icon_color=ff7597&text_color=e0e0e6&border_color=ffffff00" width="48%" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumoruBaka&theme=radical&background=12121a&fire=ff7597&ring=b388ff&sideNums=e0e0e6&stroke=ffffff00" width="97%" />
+  </p>
+
+  ---
+
+  <details open>
+    <summary><b>↓ Total Profile Visitors ↓</b></summary>
+    <br>
+    <a href="https://github.com/kumoruBaka"><img alt="Visitors" src="https://count.getloli.com/get/@kumoruBaka?theme=rule34"/></a>
+  </details>
+
+  <br>
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+
 </div>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</p>
