@@ -32,16 +32,7 @@
 
   ---
 
-  ### 📊 Digital Pulse
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kumoruBaka&show_icons=true&theme=radical&bg_color=12121a&title_color=b388ff&icon_color=ff7597&text_color=e0e0e6&border_color=ffffff00" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumoruBaka&layout=compact&theme=radical&bg_color=12121a&title_color=b388ff&icon_color=ff7597&text_color=e0e0e6&border_color=ffffff00" width="48%" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumoruBaka&theme=radical&background=12121a&fire=ff7597&ring=b388ff&sideNums=e0e0e6&stroke=ffffff00" width="97%" />
-  </p>
+  
 
   ---
 
