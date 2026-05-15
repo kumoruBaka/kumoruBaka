@@ -17,7 +17,7 @@
   ### 🪐 About Identity
 
  Hello everyone! I am ashclaw (Senko-san's biggest fan :v). I'm a recent navigating the beauty of JavaScript and the chaos of homelab servers. I love technology, anime, and the satisfying feeling of fixing a broken
- system. National-level MikroTik Olympiad participant, indie developer, and part-time Minecraft mod security researcher. Currently building Nekode — a free public REST API platform. Based in Batam, Indonesia. 🦊
+ system. National-level MikroTik Olympiad participant, indie developer, and part-time Minecraft mod security researcher. Currently building Nekode — a free public REST API platform (under development). Based in Batam, Indonesia. 🦊
 
 
   ---
