@@ -16,9 +16,9 @@
 
   ### 🪐 About Identity
 
-  *Hello everyone!* I am **ashclaw** (Senko-san's biggest fan :v). I'm a student navigating the complexities of high school and the beauty of JavaScript. I love technology, anime, and the satisfying feeling of fixing a broken system.
+ Hello everyone! I am ashclaw (Senko-san's biggest fan :v). I'm a recent navigating the beauty of JavaScript and the chaos of homelab servers. I love technology, anime, and the satisfying feeling of fixing a broken
+ system. National-level MikroTik Olympiad participant, indie developer, and part-time Minecraft mod security researcher. Currently building Nekode — a free public REST API platform. Based in Batam, Indonesia. 🦊
 
-  > _"I use Arch btw :D"_
 
   ---
 
