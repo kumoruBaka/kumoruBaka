@@ -16,8 +16,4 @@ An Engineer living in Indonesia</sub>
 </p>
 
 
-  <a href="https://github.com/kumoruBaka">
-    <img src="https://count.getloli.com/get/@kumoruBaka?theme=rule34" width="20%"/>
-  </a>
-
 </div>
