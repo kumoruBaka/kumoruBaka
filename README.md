@@ -9,11 +9,9 @@ An Engineer living in Indonesia</sub>
 
 <img src="senkooo.png" width="30%" />
 <br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,git,react,mongodb,java,go,c,cpp,bash,gcp" width="40%" />
-  </a>
-</p>
+
+   <sub>#javascript #nodejs #react #go #c<sub/>
+
 
 
 </div>
