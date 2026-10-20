@@ -29,10 +29,8 @@
 │  User      : Kuma                                            │
 │  OS        : Fedora Linux (Daily Driver)                     │
 │  Role      : Backend Developer & Datacenter Aspirant         │
-│  Cluster   : Self-Hosted VPS Fleet ("Kuma")                  │
 │  Stack     : Go, Python, JavaScript, Docker, TCP/IP          │
 │  Focus     : Datacenter Engineering & Systems Administration │
-│  Status    : Ready for infrastructure & backend builds       │
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
@@ -40,7 +38,7 @@
 
 ### Overview
 
-Hello, I am **Kuma**. I focus on Linux systems engineering, backend architecture, and network infrastructure. Daily driver is **Fedora Linux**, running self-hosted production workloads on my personal VPS fleet codenamed **Kuma**.
+Hello, I am **Kuma**. I focus on Linux systems engineering, backend architecture, and network infrastructure. Daily driver is **Fedora Linux**.
 
 Currently advancing technical capabilities toward enterprise datacenter engineering and mission-critical network administration.
 
@@ -67,20 +65,6 @@ Currently advancing technical capabilities toward enterprise datacenter engineer
 ![Discord API](https://img.shields.io/badge/Discord_API-5865F2?style=flat-square&logo=discord&logoColor=white)
 
 ---
-
-### Core Competencies Matrix
-
-| Category | Domain | Key Workloads |
-| :--- | :--- | :--- |
-| **Infrastructure & Fleet** | Linux Systems Admin | Self-hosted VPS fleet ("Kuma"), Fedora daily driver, systemd, container isolation |
-| **Networking** | Enterprise & VPS Routing | TCP/IP, DNS records, reverse proxying, internal subnetting |
-| **Backend Engineering** | APIs & Bot Engines | Go, Python, and Node.js microservices, Discord bot architectures |
-| **OS Specialization** | Windows Performance | Low-latency OS reinstallations, kernel tweaks, background service pruning |
-| **Game Server Ops** | High-Tickrate Hosting | Dedicated Minecraft server administration, JVM tuning, high-concurrency uptime |
-| **AI-Augmented Dev** | Accelerated Delivery | Integrating LLM workflows for rapid debugging and code optimization |
-
----
-
 ### Current Focus & Certification Roadmap
 
 Building verified competencies for the **Datacenter Engineering** career track:
