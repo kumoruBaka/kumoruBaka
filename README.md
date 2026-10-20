@@ -77,6 +77,7 @@ Building verified competencies for the **Datacenter Engineering** career track:
 
 ### Connect & Collaborations
 
+* **Portofolio**: [kumoru.my.id](https://kumoru.my.id)
 * **Studio**: [kumadigital.id](https://kumadigital.id)
 * **Discord**: [Join Kuma Digital](https://discord.gg/ztUhg43n)
 * **Email**: [neko@kumadigital.id](mailto:neko@kumadigital.id)
